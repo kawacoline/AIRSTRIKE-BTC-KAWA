@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+logs/
+*.log
+*.pyc
+*.mp4
+*.bak
+.env
+data/bot_stats.db
