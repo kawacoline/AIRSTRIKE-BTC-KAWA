@@ -1,4 +1,4 @@
-# ⚡ Airstrike BTC — Event-Driven Geopolitical Algorithmic Trading System
+# ⚡ Airstrike-BTC Engine — Event-Driven Geopolitical Algorithmic Trading System
 
 [![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python)](https://python.org)
 [![MetaTrader 5](https://img.shields.io/badge/Platform-MetaTrader%205-green.svg)](https://www.metatrader5.com)
@@ -77,8 +77,8 @@ The engine continuously streams and aggregates raw headlines from 10+ global sou
 
 ### 2. Repository Clone & Dependencies
 ```bash
-git clone https://github.com/kawacoline/AIRSTRIKE-BTC-KAWA.git
-cd AIRSTRIKE-BTC-KAWA
+git clone https://github.com/kawacoline/Airstrike-BTC-Engine.git
+cd Airstrike-BTC-Engine
 ```
 
 Run the automated setup script to provision the virtual environment:
