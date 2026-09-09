@@ -140,11 +140,11 @@ start.bat
 
 ## 👨‍💻 Author
 
-**Hazael**  
+**Kawacoline**  
 *Full Stack Software Engineer & Algorithmic Trading Specialist*  
 - **GitHub**: [@kawacoline](https://github.com/kawacoline)  
 - **Email**: kawacoline@gmail.com  
-- **Portfolio**: [hazael.dev](https://github.com/kawacoline)
+- **Portfolio**: [kawacoline](https://github.com/kawacoline)
 
 ---
 
